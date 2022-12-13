@@ -1,0 +1,122 @@
+html{
+    box-sizing: border-box;
+    font-family: 'Karla', sans-serif;
+    font-weight: 200px;
+    font-size: 16px;
+}
+
+*, *:before, *::after{
+    box-sizing: inherit;
+}
+
+.container{
+    margin-top: 5%;
+    width: 60%;
+    height: 100%;
+    left: 20%;
+    position: relative;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+
+#subcontainer{
+    display:flex;
+    bottom: 50%;
+    height: 100%;
+    color: white;
+    border: none;
+
+}
+
+#why-us{
+    align-content: center;
+    background-color:hsl(179, 35%, 53%);
+    width: 50%;
+    left: 50%;
+    display:inline-block;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    
+}
+
+#why-us p{
+    font-weight: bold;
+}
+
+#monthly-subscription{
+    align-content: center;
+    position:relative;
+    background-color:hsl(179, 62%, 43%);
+    width: 50%;
+    display:inline-block;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+}
+
+h1{
+    padding: 30px 30px 0px 30px;
+    color: hsl(179, 62%, 43%);
+}
+
+h2{
+    padding: 0px 30px 0px 30px;
+    color: #bdf254;
+}
+
+#text{
+    padding: 0px 30px 20px 30px;
+}
+
+#montly-title{
+    font-weight: bold;
+}
+
+.price-container{
+    position: relative;
+}
+
+#price{
+    margin: 0px;
+    font-size: 40px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+#price2{
+    position: relative;
+    display: inline-block;
+}
+
+ul{
+    list-style: none;
+    padding: 0px;
+}
+
+li{
+    line-height-step: 150%;
+}
+
+#sign-up{
+    cursor: grab;
+    color: white;
+    background-color: #bdf254;
+    height: 15%;
+    width: 90%;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+#sign-up:hover{
+    background-color: #99c73d;
+    color: white;
+}
