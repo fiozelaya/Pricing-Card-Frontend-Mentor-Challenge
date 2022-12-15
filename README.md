@@ -6,7 +6,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -29,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/fiozelaya/Pricing-Card-Frontend-Mentor-Challenge)
-- Live Site URL: [Add live site URL here](https://fiozelaya.github.io/Pricing-Card-Frontend-Mentor-Challenge/)
+- Solution URL: [here!](https://github.com/fiozelaya/Pricing-Card-Frontend-Mentor-Challenge)
+- Live Site URL: [here!](https://fiozelaya.github.io/Pricing-Card-Frontend-Mentor-Challenge/)
 
 ## My process
 
